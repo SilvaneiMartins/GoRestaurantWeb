@@ -16,7 +16,7 @@
   Demotração e telas da aplicação desenvolvida e todos os teste aprovado.
 </h4>
 
-<a href="https://imgur.com/ierIEhK"><img src="https://i.imgur.com/ierIEhK.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ierIEhK"><img src="https://i.imgur.com/ierIEhK.png" title="source: imgur.com" /></a><br>
 <a href="https://imgur.com/KaZ7B4i"><img src="https://i.imgur.com/KaZ7B4i.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
